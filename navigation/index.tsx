@@ -55,7 +55,7 @@ function RootNavigator() {
         name="Root" 
         component={MainTabNavigator} 
         options={{
-          title: "CGame-App",
+          title: "WhatApp",
           headerRight: () => (
             <View style={{
               flexDirection: 'row',
